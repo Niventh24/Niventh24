@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **College project**
 
-- 🌱 I’m currently learning **HTML,CSS,Javascript**
+- 🌱 I’m currently learning **HTML,CSS,Java**
 
 - 📫 How to reach me **niventhmuthu@gmail.com**
 
