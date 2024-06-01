@@ -1,6 +1,8 @@
 
 ![MasterHead](https://github.com/Niventh24/Niventh24/blob/main/github-header-image%20(1).png)
-<h1 align="center">"Hi 👋,Welcome to my GitHub! Explore, learn, and feel free to contribute. Happy coding!💻"</h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F04F&random=false&width=435&lines=Hi+%F0%9F%91%8B%2CWelcome+to+my+GitHub!;%F0%9F%98%8A++++My+name+is+Niventh++%F0%9F%98%8A;I+like+to+explore%2Flearn+new+things%F0%9F%A4%93;Happy+coding%2C+everyone!%F0%9F%92%BB" alt="Typing SVG" /></a>
+</p> 
 <h3 align="center">Enthusiastic final year student with a strong foundation in computer science and engineering principles. Seeking a dynamic and challenging career where I can apply my technical skills, creativity, and problem-solving abilities to develop software and hardware solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
