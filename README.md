@@ -1,7 +1,7 @@
 
 ![MasterHead](https://github.com/Niventh24/Niventh24/blob/main/github-header-image%20(1).png)
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F04F&random=false&width=435&lines=Hi+%F0%9F%91%8B%2CWelcome+to+my+GitHub!;%F0%9F%98%8A++++My+name+is+Niventh++%F0%9F%98%8A;I+like+to+explore%2Flearn+new+things%F0%9F%A4%93;Happy+coding%2C+everyone!%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F04F&random=false&width=435&lines=Hi+%F0%9F%91%8B%2CWelcome+to+my+GitHub+Page!;%F0%9F%98%8A++++My+name+is+Niventh++%F0%9F%98%8A;I+like+to+explore%2Flearn+new+things%F0%9F%A4%93;Happy+coding%2C+everyone!%F0%9F%92%BB" alt="Typing SVG" /></a>
 </p> 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎:
