@@ -30,3 +30,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Niventh24&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
+![snake animation](https://github.com/Niventh24/Niventh24/blob/output/github-contribution-grid-snake2.svg)
