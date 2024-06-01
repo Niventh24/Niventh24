@@ -28,3 +28,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Niventh24&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Niventh24&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
