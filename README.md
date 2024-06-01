@@ -25,7 +25,7 @@
 # 📊 GitHub Stats:
 
 ![Niventh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niventh24&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niventh24&layout=compact&theme=gruvbox&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niventh24&size_weight=0.5&count_weight=0.5&layout=compact&theme=gruvbox)
 
 
 
